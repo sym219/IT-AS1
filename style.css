@@ -1,0 +1,57 @@
+body {
+  margin: 0px;
+  background-color: #373F51;
+  color: #F1F7ED;
+  font-size: 22px;
+}
+
+.title {
+  margin: 25px 25px;
+  font-size: 30px;
+  color: #AC80A0;
+}
+
+.chunks {
+margin: 0px 160px;
+padding: 25px;
+}
+
+.break {
+  border-bottom: #63405A solid 5px;
+  margin: 0;
+}
+
+a {
+  color: cyan;
+
+}
+
+.pics {
+  opacity: 85%;
+  text-align: center;
+
+}
+
+.info {
+  text-align: right;
+  margin-right: 25px;
+}
+
+h1 {
+text-align: center;
+background-color: #AC80A0;
+padding: 15px;
+
+}
+
+h3 {
+  text-align: center;
+  font-size: 40px;
+  color: #AC80A0
+
+}
+
+h4 {
+  font-size: 25px;
+  color: #AC80A0
+}
